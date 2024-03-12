@@ -1,6 +1,6 @@
 from modelos.restaurante import Restaurante
 from modelos.cardapios.bebida import Bebida
-from modelo
+from modelos.cardapios.prato import Prato
 
 restaurante_praca = Restaurante("praça", "Gourmet")
 bebida_suco = Bebida ("Suco de melencia" 5.0, "grande")
