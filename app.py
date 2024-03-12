@@ -12,11 +12,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    
-    
-    junior - junior (2,000)
-    junior - Pleno (2,500)
-    junior -0 senior 3,000
-    
-    pleno - junior
-    pleno - pleno
